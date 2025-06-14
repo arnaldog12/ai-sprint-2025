@@ -42,6 +42,6 @@ Your adapted resume will be saved in the `output.md` file.
 
 ## 🎉 Acknowledgments
 
-This project was created during the AI Sprint 2025, organized by GDE Program. Google Cloud credits were provided for this project
+This project was created during the AI Sprint 2025, organized by GDE Program. Google Cloud credits were provided for this project.
 
 [ai-studio]: https://aistudio.google.com/apikey
