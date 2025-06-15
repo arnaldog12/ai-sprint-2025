@@ -14,6 +14,7 @@
 - Dates: April 2024 - Today
 - Description: Applying Generative AI to leverage our Ad Platform. Experience with Prompt Engineering, Topic Modeling with BERT, and AI Agents. Currently, developing a Multi-Agent system that follows the Manager Agentic Pattern to help users create offers, perform queries in their databases, generate personalized growth strategies and manage marketing reports via a Chatbot interface. The Chatbot is already being used by our customers in production.
 
+--- 
 - Role: Founding Team, Senior Data Scientist
 - Company: Arado
 - Location: Belo Horizonte, Brazil
